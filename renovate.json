@@ -1,9 +1,0 @@
-{
-     "dryRun": "full",
-     "hostRules": [{
-        "hostType": "github",
-        "matchHost": "github.com",
-        "token": "****"
-    }],
-    "rangeStrategy": "pin"
-}
