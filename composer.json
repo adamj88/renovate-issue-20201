@@ -1,0 +1,14 @@
+{
+    "name": "renovate/issue-20201",
+    "type": "project",
+    "require": {
+        "facebook/facebook-for-magento2": "^1.4.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://63f90d33ea8cfb46d0b4d284ba3cc812:3677bfd3151e08679361baa4a6bed4f7@repo.magento.com/",
+            "canonical": false
+        }
+    ]
+}
